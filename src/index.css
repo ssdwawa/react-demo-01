@@ -1,0 +1,25 @@
+.am-tab-bar{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: auto;
+    z-index: -1;
+}
+
+.am-list-extra{
+    flex-basis: auto;
+}
+.chat-me .am-list-content{
+    padding-right: 15px;
+    text-align: right !important;
+}
+.stick-footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: auto;
+    z-index: 10; 
+}
+.pad{
+    padding-bottom: 10%;
+}
